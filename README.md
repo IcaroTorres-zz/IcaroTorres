@@ -43,5 +43,5 @@ I am a Software Engineer and Architect, graduated from the Federal University of
 - 🔭 I’m currently working on [Ioasys](https://www.ioasys.com.br)
 - 🌱 I’m currently learning Kubernetes, Message Brokers and Event Sourcing
 - 💬 Ask me about .Net and .Net Core, Javascript, Vue, Design Patterns and OOP
-- 📫 You can find all my socialmedia at https://www.linkedin.com/in/icarotorres-stuart/
+- 📫 You can find all my socialmedia at [LinkedIn](https://www.linkedin.com/in/icarotorres-stuart)
 - 👋 my hobbies are Music, Anime and OSTs, Movies, Manga, Watching painting and drawing, Magic The Gathering and RPG.
