@@ -1,12 +1,6 @@
 ## Hi there, my name is Icaro Torres, but you can call me 'Stuart' 👋
 
-> I am a Software Engineer and Architect, graduated from the Federal University of Sergipe, with development experience since 2016, mainly in .Net platforms. I'm interested in DevOps culture, Cloud, Distributed Systems, Microservices, SAGAs, SPAs, PWAs, UX and APIs. Someone attracted by challenges, passionate learner, creative, curious and communicative.
-
-#### These are my skills
-
-> C1 English level. Software Engineering and Architecture. Analysis and Requirement Survey. Object-Oriented Programming. SOLID. Design Patterns. Enterprise Application Patterns. Agile Development. Feature testing coverage. DevOps, Docker and Git. Presentations
-
-#### Working with SCRUM, TDD, XP, Prototyping and Kanban as methodologies
+I am a Software Engineer and Architect, graduated from the Federal University of Sergipe, with development experience since 2016, mainly in .Net platforms. I'm interested in DevOps culture, Cloud, Distributed Systems, Microservices, SAGAs, SPAs, PWAs, UX and APIs. Someone attracted by challenges, passionate learner, creative, curious and communicative.
 
 #### Taking C# and Javascript as main languages, with hands on:
 
