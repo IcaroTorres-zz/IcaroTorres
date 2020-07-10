@@ -2,41 +2,21 @@
 
 I am a Software Engineer and Architect, graduated from the Federal University of Sergipe, with development experience since 2016, mainly in .Net platforms. I'm interested in DevOps culture, Cloud, Distributed Systems, Microservices, SAGAs, SPAs, PWAs, UX and APIs. Someone attracted by challenges, passionate learner, creative, curious and communicative.
 
-### These are my skills
+#### These are my skills
 
-- C1 English level.
-- Software Engineering and Architecture
-- Analysis and Requirement Survey
-- Object-Oriented Programming
-- SOLID
-- Design Patterns
-- Enterprise Application Patterns
-- Agile Development
-- Feature testing coverage
-- DevOps, Docker and Git
-- Presentations
+C1 English level. Software Engineering and Architecture. Analysis and Requirement Survey. Object-Oriented Programming. SOLID. Design Patterns. Enterprise Application Patterns. Agile Development. Feature testing coverage. DevOps, Docker and Git. Presentations
 
-### Working with SCRUM, TDD, XP, Prototyping and Kanban
+#### Working with SCRUM, TDD, XP, Prototyping and Kanban
 
-### Carrying in my toolbox
-
-#### Languages like C#, Javascript, Python, Java
+#### Carrying in my toolbox languages like C#, Javascript, Python, Java
 
 #### And Hands-on with
 
-- .NET and .NET Core.
-- GitHub Azure DevOps, Bitbucket.
-- Docker, SonarCloud, CI and CD.
-- SQL (MSSQL, PostgreSQL, MySQL), No-SQL(Redis, MongoDb).
+- .NET and .NET Core REST APIs and MVCs
 - ORMs (EntityFramework 6+, EntityFrameworkCore, Dapper), 
-- DI Containers (Net Core built-in, Ninject, Unity and Autofac).
-- REST API, MVC, SPA.
-- Healthchecks plugins, Swagger docs Postman and.
-- Vue, Vuex, Nuxt and Vuetify.
-- Sass, Bootstrap and Materialize.
-- Webpack, Gulp, Grunt and Babel.
-- HTML5, CSS3, ES6 and jquery.
-
+- SQL (MSSQL, PostgreSQL, MySQL), No-SQL(Redis, MongoDb).
+- SPAs with Vue, Vuex, Nuxt and Vuetify.
+- ES6, HTML5, CSS3, Sass, Bootstrap and Materialize, Webpack, Gulp, Grunt and Babel.
 
 ### Extras
 
