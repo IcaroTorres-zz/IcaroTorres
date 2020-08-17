@@ -10,10 +10,10 @@ I am a Software Engineer and Architect, graduated from the Federal University of
 - SPAs with Vue, Vuex, Nuxt and Vuetify.
 - ES6, HTML5, CSS3, Sass, Bootstrap and Materialize, Webpack, Gulp, Grunt and Babel.
 
-### Extras
+#### More about me
 
-- 🔭 I’m currently working on [Ioasys](https://www.ioasys.com.br)
-- 🌱 I’m currently learning Kubernetes, Message Brokers and Event Sourcing
+- 🔭 I’m currently working at [Ioasys](https://www.ioasys.com.br)
+- 🌱 learning Kubernetes, Message Brokers, Event Sourcing and Microservice-like architectures
 - 💬 Ask me about .Net and .Net Core, Javascript, Vue, Design Patterns and OOP
 - 📫 You can find all my socialmedia at [LinkedIn](https://www.linkedin.com/in/icarotorres-stuart)
-- 👋 my hobbies are Music, Anime and OSTs, Movies, Manga, Watching painting and drawing, Magic The Gathering and RPG.
+- 👋 my hobbies are Music, OSTs BGM, Anime, Manga, Movies, to Watch painting and drawing, Magic The Gathering and RPG.
