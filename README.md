@@ -1,17 +1,27 @@
-## Hi there, my name is Icaro Torres, but you can call me 'Stuart' 👋
+## Hi there, I'm Icaro Torres, or 'Stuart' for close friends 👋
 
-I am a Software Engineer and Architect, graduated from the Federal University of Sergipe, with development experience since 2016, mainly in .Net platforms. I'm interested in DevOps culture, Cloud, Distributed Systems, Microservices, SAGAs, SPAs, PWAs, UX and APIs. Someone attracted by challenges, passionate learner, creative, curious and communicative.
+I am a **Software Engineer and Architect**, graduated from the **Federal University of Sergipe**, dedicated to backend development, with development experience **since 2016**, mainly in **.Net** platforms.
 
-#### Taking C# and Javascript as main languages, with hands on:
+#### I'm interested in:
+- DevOps culture and Development life cyles with CI and CD;
+- Cloud and Distributed Systems;
+- Microservices architectures and practices;
+- Resilient APIs.
+ 
+#### Personally:
+- Attracted by challenges;
+- Passionate learner;
+- Creative and curious, always asking a lot.
 
-- .NET and .NET Core REST APIs and MVCs
-- ORMs (EntityFramework 6+, EntityFrameworkCore, Dapper), 
-- SQL (MSSQL, PostgreSQL, MySQL), No-SQL(Redis, MongoDb).
-- SPAs with Vue, Vuex, Nuxt and Vuetify.
-- ES6, HTML5, CSS3, Sass, Bootstrap and Materialize, Webpack, Gulp, Grunt and Babel.
+#### With hands on:
+- REST, BFF or Gateway APIs with Swagger docs;
+- Class libraries and SDKs;
+- Scheduled or Asynchronous Microservices;
+- ORMs (EntityFramework 6+, EntityFrameworkCore, Dapper); 
+- SQL (MSSQL, PostgreSQL, MySQL);
+- No-SQL(Redis, MongoDb).
 
 #### More about me
-
 - 🔭 I’m currently working at [Ioasys](https://www.ioasys.com.br)
 - 🌱 learning Kubernetes, Message Brokers, Event Sourcing and Microservice-like architectures
 - 💬 Ask me about .Net and .Net Core, Javascript, Vue, Design Patterns and OOP
