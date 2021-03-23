@@ -2,24 +2,13 @@
 
 I am a **Software Engineer and Architect**, graduated from the **Federal University of Sergipe**, dedicated to backend development, with development experience **since 2016**, mainly in **.Net** platforms.
 
-#### I'm interested in:
-- DevOps culture and Development life cyles with CI and CD;
-- Cloud and Distributed Systems;
-- Microservices architectures and practices;
-- Resilient APIs.
- 
-#### Personally:
-- Attracted by challenges;
-- Passionate learner;
-- Creative and curious, always asking a lot.
-
-#### With hands on:
-- REST, BFF or Gateway APIs with Swagger docs;
-- Class libraries and SDKs;
-- Scheduled or Asynchronous Microservices;
-- ORMs (EntityFramework 6+, EntityFrameworkCore, Dapper); 
-- SQL (MSSQL, PostgreSQL, MySQL);
-- No-SQL(Redis, MongoDb).
+|I'm interested in | I have hands on | I'm Personally  
+--- | --- | ---
+|Resilient APIs | REST, BFF or Gateway APIs with Swagger docs | Passionate learner
+|Microservices architectures and practices | Scheduled or Asynchronous Microservices | Attracted by challenges
+|Development life cyles with CI and CD | Class libraries and SDKs | Creative
+|Cloud and Distributed Systems | SQL (MSSQL, PostgreSQL, MySQL) and No-SQL(Redis, MongoDb) | Curious 
+|DevOps culture | ORMs (EntityFramework 6+, EntityFrameworkCore, Dapper) | Always asking a lot
 
 #### More about me
 - 🔭 I’m currently working at [Ioasys](https://www.ioasys.com.br)
