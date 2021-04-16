@@ -1,6 +1,6 @@
 ## Hi there, I'm Icaro Torres, or 'Stuart' for close friends 👋
 
-I am a **Software Engineer and Architect**, graduated from the **Federal University of Sergipe**, dedicated to backend development, with development experience **since 2016**, mainly in **.Net** platforms.
+I am a **Software Engineer and Architect** who graduated from the **Universidade Federal de Sergipe**, dedicated to backend development, with professional experience **since 2016**, mainly in **.Net** platforms.
 
 |I'm interested in | I have hands on | I'm Personally  
 --- | --- | ---
