@@ -11,7 +11,7 @@ I am a **Software Engineer and Architect** who graduated from the **Universidade
 |DevOps culture | ORMs (EntityFramework 6+, EntityFrameworkCore, Dapper) | Always asking a lot
 
 #### More about me
-- 🔭 I’m currently working at [Ioasys](https://www.ioasys.com.br)
+- 🔭 I’m currently working at @stone-payments [Stone Co.](https://www.stone.com.br/)
 - 🌱 learning Kubernetes, Message Brokers, Event Sourcing and Microservice-like architectures
 - 💬 Ask me about .Net and .Net Core, Javascript, Vue, Design Patterns and OOP
 - 📫 You can find all my socialmedia at [LinkedIn](https://www.linkedin.com/in/icarotorres-stuart)
