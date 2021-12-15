@@ -1,18 +1,19 @@
 ## Hi there, I'm Icaro Torres, or 'Stuart' for close friends 👋
 
 I am a **Software Engineer and Architect** who graduated from the **Universidade Federal de Sergipe**, dedicated to backend development, with professional experience **since 2016**, mainly in **.Net** platforms.
+Personally I'm passionate learner, curious, creative, attracted by challenges and always asking a lot.
 
-|I'm interested in | I have hands on | I'm Personally  
---- | --- | ---
-|Resilient APIs | REST, BFF or Gateway APIs with Swagger docs | Passionate learner
-|Microservices architectures and practices | Scheduled or Asynchronous Microservices | Attracted by challenges
-|Development life cyles with CI and CD | Class libraries and SDKs | Creative
-|Cloud and Distributed Systems | SQL (MSSQL, PostgreSQL, MySQL) and No-SQL(Redis, MongoDb) | Curious 
-|DevOps culture | ORMs (EntityFramework 6+, EntityFrameworkCore, Dapper) | Always asking a lot
+|I'm interested in | I have hands on
+--- | ---
+|Cloud and Distributed Systems | Scheduled or asynchronous processing|
+|Software architectures and practices | Microservices choreography|
+|DevOps culture | Agile Development with CI/CD|
+|Software Development Life Cycles | Class libraries and SDKs|
+|Resilient Services | REST, BFF or Gateway APIs with Swagger docs|
 
 #### More about me
-- 🔭 I’m currently working at @stone-payments [Stone Co.](https://www.stone.com.br/)
-- 🌱 learning Kubernetes, Message Brokers, Event Sourcing and Microservice-like architectures
-- 💬 Ask me about .Net and .Net Core, Javascript, Vue, Design Patterns and OOP
+- 🔭 I’m working at @stone-payments [Stone Co.](https://www.stone.com.br/)
+- 🌱 Learning Kubernetes, building experience with distributed and large scale systems and architectures
+- 💬 Ask me about Software engineering architecture, design patterns and OOP, .Net Core and Javascript
 - 📫 You can find all my socialmedia at [LinkedIn](https://www.linkedin.com/in/icarotorres-stuart)
-- 👋 my hobbies are Music, OSTs BGM, Anime, Manga, Movies, to Watch painting and drawing, Magic The Gathering and RPG.
+- 👋 My hobbies are music, anime, manga, movies (maily animations), to watch painting and drawing.
