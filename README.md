@@ -12,8 +12,8 @@ Personally I'm passionate learner, curious, creative, attracted by challenges an
 |Resilient Services | REST, BFF or Gateway APIs with Swagger docs|
 
 #### More about me
-- 🔭 I’m working at @stone-payments [Stone Co.](https://www.stone.com.br/)
-- 🌱 Learning Kubernetes, building experience with distributed and large scale systems and architectures
-- 💬 Ask me about Software engineering architecture, design patterns and OOP, .Net Core and Javascript
+- 🔭 I’m working at @stone-payments [Amazon](https://www.amazon.com.br/)
+- 🌱 Learning a lot and building experience with distributed and large scale systems and architectures
+- 💬 Ask me about Software engineering and architecture, design patterns and OOP, .Net Core and Javascript
 - 📫 You can find all my socialmedia at [LinkedIn](https://www.linkedin.com/in/icarotorres-stuart)
 - 👋 My hobbies are music, anime, manga, movies (maily animations), to watch painting and drawing.
